@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2063
+
+All is in the title: syntax colouring for the coq proof assistant files (*.v).
+
+Also check http://www.vim.org/scripts/script.php?script_id=2079 for indentation.
+
+Some people asked me if I planned to do something to interact between vim and coq. I answered that yes and that I had started it. The plugin is usable but not publishable" :) However I now have many other things to do and am not using Coq at that time. So if I publish such a thing some day it may be in quite a long time. Apologies.
